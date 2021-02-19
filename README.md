@@ -2,18 +2,30 @@
 Desenvolvimento dos conhecimentos de JAVA :
 
 
---> Desvio condicional e Laços de Repetição
---> Sub-Rotinas
---> Vetores
---> Matrizes
---> Manipulação de cadeias de caracteres
---> Registros
---> Registros com listas estáticas
---> Alocação Dinâmica de Memória. Listas Lineares
+--> Desvio condicional e Laços de Repetição.
+
+--> Sub-Rotinas.
+
+--> Vetores.
+
+--> Matrizes.
+
+--> Manipulação de cadeias de caracteres.
+
+--> Registros.
+
+--> Registros com listas estáticas.
+
+--> Alocação Dinâmica de Memória. Listas Lineares.
+
 --> Alocação Dinâmica de Memória: Pilha.
---> Orientação a objetos
---> Herença
---> Polimorfismo
+
+--> Orientação a objetos.
+
+--> Herença.
+
+--> Polimorfismo.
+
 
 
 Conteúdo extraído dos exercicios e trabalhos realizados na disciplina de Estrutura de Dados. 
