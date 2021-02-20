@@ -20,6 +20,8 @@ Desenvolvimento dos conhecimentos de JAVA :
 
 --> Alocação Dinâmica de Memória: Pilha.
 
+--> Alocação Dinâmica de Memória: Fila.
+
 --> Orientação a objetos.
 
 --> Herença.
