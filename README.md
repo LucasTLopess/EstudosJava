@@ -22,6 +22,8 @@ Desenvolvimento dos conhecimentos de JAVA :
 
 --> Alocação Dinâmica de Memória: Fila.
 
+--> Manipulação de Arquivos.
+
 --> Orientação a objetos.
 
 --> Herença.
