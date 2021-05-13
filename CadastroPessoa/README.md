@@ -1,5 +1,5 @@
 
-##Projeto JAVA resolução da questão:</h2>
+    # Projeto JAVA resolução da questão: </h2>
 
     "Crie uma classe para representar uma pessoa, 
     considerando que tenha as propriedades nome,
